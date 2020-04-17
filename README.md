@@ -1,7 +1,9 @@
-# todolist
-A To-Do List web application using React
+# To-Do-List
+A simple To-Do List using React
 
-#Run
-'''
+
+## Run
+
+```bash
 npm start
-'''
+```
