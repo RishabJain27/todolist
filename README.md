@@ -5,5 +5,6 @@ A simple To-Do List using React
 ## Run
 
 ```bash
-npm start
+npm install
+npm run build
 ```
